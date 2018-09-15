@@ -1,4 +1,4 @@
-# Análise de NPS com Mineracao de Texto
+# Análise de NPS com Mineração de Texto
 Análise de uma pesquisa NPS com técnica de mineração de textos.
 
 Aplicações:
